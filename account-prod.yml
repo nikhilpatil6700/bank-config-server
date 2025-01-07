@@ -1,0 +1,12 @@
+
+
+    
+  
+accounts:
+ message: "production environment"
+ contactsDetails:
+  name: "r k sharma( production lead)"
+  email: "rksharma@gmail.com"
+ onCallSupport:
+  - "+91 23456"
+  - "+91 32456"

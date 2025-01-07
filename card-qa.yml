@@ -1,0 +1,10 @@
+
+ 
+cards:
+ message: "card service testing"
+ contactDetails:
+  name: "ab aam(dev lead)"
+  email: "aam@gmal.com"
+ onCallSupport:
+  -"+91 1000451"
+  -"+91 6111121" 

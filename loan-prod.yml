@@ -1,0 +1,10 @@
+
+
+loans:
+ message: "loan service production"
+ contactDetails:
+  name: "ab dhoni(prod lead)"
+  email: "ram@gmal.com"
+ onCallSupport:
+  -"+91 1003410"
+  -"+91 6004210" 

@@ -1,0 +1,10 @@
+
+ 
+cards:
+ message: "card service"
+ contactDetails:
+  name: "ab sham(dev lead)"
+  email: "sham@gmal.com"
+ onCallSupport:
+  -"+91 123451"
+  -"+91 654321"	

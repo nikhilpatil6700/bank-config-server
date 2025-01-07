@@ -1,0 +1,10 @@
+
+   
+loans:
+ message: "loan service testing"
+ contactDetails:
+  name: "ab kohli(dev lead)"
+  email: "kohli@gmal.com"
+ onCallSupport:
+  -"+91 1122811"
+  -"+91 6111121" 

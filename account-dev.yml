@@ -1,0 +1,10 @@
+
+  
+accounts:
+ message: "development environment"
+ contactsDetails:
+  name: "n r patil(development lead)"
+  email: "nrpatil@gmail.com"
+ onCallSupport:
+  - "+91 87691"
+  - "+91 87692"

@@ -1,0 +1,9 @@
+
+accounts:
+ message: "testing environment"
+ contactsDetails:
+  name: "john(testing lead)"
+  email: "john@gmail.com"
+ onCallSupport:
+  - "+91 678900"
+  - "+91 654321"

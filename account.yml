@@ -1,0 +1,11 @@
+
+
+    
+accounts:
+  message: "welcome to your account"
+  contactsDetails:
+    name: "nikhil patil(client sbi)"
+    email: "nikhilpatilsbi@gmail.com"
+  onCallSupport:
+    - "+91 8899775566"
+    - "+91 9988776655"

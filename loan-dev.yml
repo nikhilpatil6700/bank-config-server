@@ -1,0 +1,10 @@
+
+
+loans:
+ message: "loan service"
+ contactDetails:
+  name: "ab sham(dev lead)"
+  email: "sham@gmal.com"
+ onCallSupport:
+  -"+61 623451"
+  -"+61 654321"	

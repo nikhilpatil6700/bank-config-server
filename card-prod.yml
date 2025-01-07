@@ -1,0 +1,10 @@
+
+
+cards:
+ message: "card service production"
+ contactDetails:
+  name: "ab ram(prod lead)"
+  email: "ram@gmal.com"
+ onCallSupport:
+  -"+91 1003451"
+  -"+91 6004321" 
